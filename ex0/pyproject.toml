@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "ex0"
+version = "0.1.0"
+description = "The Sealed Laboratory"
+authors = ["eduaaugu <eduaaugu@42.fr>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.0"
+numpy = "^1.25.0"
