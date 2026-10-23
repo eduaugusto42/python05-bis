@@ -1,0 +1,14 @@
+# Virtual environments created by the laboratory exercises
+lab_env/
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+
+# pytest cache
+.pytest_cache/
