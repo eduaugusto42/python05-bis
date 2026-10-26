@@ -35,11 +35,11 @@ def main() -> None:
 
     print("pip vs Poetry:")
     print(
-        "   requirements.txt declares what to install;"
+        "requirements.txt declares what to install;"
         " pip resolves it at install time."
     )
     print(
-        "   pyproject.toml declares the same constraints,"
+        "pyproject.toml declares the same constraints,"
         " and Poetry pins the resolved versions in poetry.lock"
         " so every install is identical."
     )
